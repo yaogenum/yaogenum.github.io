@@ -2,5 +2,6 @@
 
 * [序](README.md)
 * [概叙](chapter1.md)
-* 基础知识
+* [基础知识](chapter2.md)
+    * [安装GitBook](chapter2/chapter2.1.md)
 
